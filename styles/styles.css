@@ -1,3 +1,8 @@
+.container {
+  width: 1170px;
+  background-image: linear-gradient(to right, #f13bae 50px, white 20px, #f13bae 50px, white 20px, #f13bae 50px, white 20px, #f13bae 50px, white 20px);
+}
+
 section {
   padding-top: 100px;
 }

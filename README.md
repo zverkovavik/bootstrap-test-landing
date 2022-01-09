@@ -1,1 +1,0 @@
-# zverkovavik.github.io
