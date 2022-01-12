@@ -1,8 +1,17 @@
-.container {
+/* .container {
   width: 1170px;
   background-image: linear-gradient(to right, #f13bae 50px, white 20px, #f13bae 50px, white 20px, #f13bae 50px, white 20px, #f13bae 50px, white 20px);
-}
+} */
 
 section {
   padding-top: 100px;
+}
+
+.made-with-love {
+  width: 29px;
+  height: 25px;
+}
+
+.icon-footer {
+  background-color: #223047;;
 }
